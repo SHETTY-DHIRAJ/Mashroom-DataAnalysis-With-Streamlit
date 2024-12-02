@@ -1,4 +1,4 @@
-# Mashroom-DataAnalysis-With-Streamlit
+# Mashroom DataAnalysis With Streamlit
 This project focuses on building interactive web applications for machine learning classification using **Streamlit** and **Python**. The app provides an intuitive interface that allows users to select a classification algorithm, adjust hyperparameters, and visualize evaluation metrics through a web-based interface.
 
 ## Project Overview
